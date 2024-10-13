@@ -36,3 +36,12 @@ Future Work:
 - Incorporation of Additional Data Sources: Including genetic data, medical histories, and lifestyle factors.
 - Advanced Feature Engineering: Exploring deep learning for feature generation.
 - Deep Learning Architectures: Using CNNs and RNNs for image and sequential data.
+
+Copyright Notice
+© 2024 OsamaElkott. All rights reserved.
+
+This project, including all associated code, documentation, and any other materials, is protected by copyright law. Unauthorized reproduction, distribution, or usage of any part of this project without explicit permission from the author is strictly prohibited.
+
+For inquiries about licensing or permission to use this project, please contact me.
+
+Note: This project is shared for academic and demonstration purposes only. No part of this project, including code or thesis content, may be copied, modified, or redistributed in any form for commercial or non-commercial purposes without prior written consent from the author.
