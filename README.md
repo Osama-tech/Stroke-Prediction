@@ -16,7 +16,7 @@ Models Used:
 Data Preprocessing:
 - Handling Missing Values: Multivariate Imputation by Chained Equations (MICE)
 - Balancing Classes: Adaptive Synthetic Sampling (ADASYN)
-- Data Splitting: 5 different split strategies were used to evaluate the models, including a 70-20-10 training, validation, and test split.
+- Data Splitting: 5 different split strategies were used to evaluate the models.
 
 Evaluation Metrics:
 The following metrics were used to evaluate the performance of the models:
