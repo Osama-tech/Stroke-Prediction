@@ -37,7 +37,9 @@ Future Work:
 - Advanced Feature Engineering: Exploring deep learning for feature generation.
 - Deep Learning Architectures: Using CNNs and RNNs for image and sequential data.
 
-Copyright Notice
+
+
+Copyright
 © 2024 OsamaElkott. All rights reserved.
 
 This project, including all associated code, documentation, and any other materials, is protected by copyright law. Unauthorized reproduction, distribution, or usage of any part of this project without explicit permission from the author is strictly prohibited.
